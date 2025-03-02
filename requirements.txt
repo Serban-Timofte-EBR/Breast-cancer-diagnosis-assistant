@@ -1,8 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+python-dotenv
+torch
+transformers
+beautifulsoup4
+requests
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-tensorflow
-keras
-nltk
